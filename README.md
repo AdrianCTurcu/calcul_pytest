@@ -17,4 +17,4 @@ Impartire 6 / 3 = 2.0
 
 pytest -v test_calcule.py
 ```
-![]
+![](https://github.com/AdrianCTurcu/calcul_pytest/blob/main/calcul.jpg)

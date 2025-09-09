@@ -4,6 +4,11 @@ Acest proiect este un exemplu simplu în Python care definește patru funcții m
 
 ## 📂 Structura proiectului
 
+Calcule_pytest/
+├── calcule.py # funcțiile matematice
+├── test_calcule.py # testele pytest
+└── README.md # documentația proiectului
+
 ## 🚀 Cum rulezi aplicația
 Pentru a testa manual funcțiile:
 ```
